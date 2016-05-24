@@ -1,0 +1,28 @@
+name: Jewelry by Mitsuko
+favicon: null
+layout_spectrum: 0.42588734277524054
+typography_spectrum: 0.49871610989794135
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.7323014105204493
+  lightness: 0.5026717719156295
+  saturation: 0.3467572405934334
+  rhythmicContrast: 0.14864684152416885
+purpose: []
